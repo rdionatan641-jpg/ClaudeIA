@@ -38,3 +38,4 @@ jobs:
         with:
           name: APK
           path: project/app/build/outputs/apk/debug/*.apk
+ 
